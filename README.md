@@ -1,5 +1,5 @@
 # LispLike-Interpeter
-A lisp-like interpreter made for an university exam. The specification can be found in the "Spec" PDF file.
+An interpreter for a lisp-like language made for an university exam. The specification can be found in the "Spec" PDF file.
 This intepreter take as input from the command line a name of a file with ".txt" extension and does a lexical and semantic analysis on it, if it follow the grammar rules of the specification it does also an evaluation and put the output on the terminal.
 
 ## Requirements:
